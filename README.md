@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rohan krishna</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-- 🔭 I’m currently working on **wordpress web development**
-
-- 🌱 I’m currently learning **full stack**
+- 🌱 I’m currently learning **full stack development**
 
 - 👯 I’m looking to collaborate on **full stack project**
 
